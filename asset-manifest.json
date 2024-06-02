@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Folio/static/css/main.3fa51921.css",
+    "main.js": "/Folio/static/js/main.3fef70c6.js",
+    "static/js/453.885195b1.chunk.js": "/Folio/static/js/453.885195b1.chunk.js",
+    "static/media/bequerelh.png": "/Folio/static/media/bequerelh.5ef7c97ae5f52e8663eb.png",
+    "static/media/accxex.png": "/Folio/static/media/accxex.6ca44963bb9c557454d4.png",
+    "static/media/temptas.png": "/Folio/static/media/temptas.f5fcb41d13cdd9881da9.png",
+    "static/media/knowngainer.png": "/Folio/static/media/knowngainer.060b944703766cd53cf1.png",
+    "static/media/WHD.png": "/Folio/static/media/WHD.a9e3dc940616b0bb289d.png",
+    "static/media/color-sharp.png": "/Folio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/Folio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner_bg1.jpg": "/Folio/static/media/banner_bg1.e83e0cd326683393a01f.jpg",
+    "static/media/SBG.png": "/Folio/static/media/SBG.51778a173ac47f9f4a69.png",
+    "static/media/header-img.svg": "/Folio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/ksh.png": "/Folio/static/media/ksh.3cd13c0c005b5d6a75a6.png",
+    "static/media/CBIR.png": "/Folio/static/media/CBIR.fdb5127cdbf0dbb6b689.png",
+    "static/media/CentraNo2-Bold.ttf": "/Folio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Folio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Folio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Folio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/photopix.png": "/Folio/static/media/photopix.38ea676713126e944eca.png",
+    "static/media/contact-img.svg": "/Folio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo-no-background.png": "/Folio/static/media/logo-no-background.2a2e650f80b4b364b039.png",
+    "static/media/revicons.eot": "/Folio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Folio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Folio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/Folio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/Folio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/Folio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/Folio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/Folio/index.html",
+    "static/media/nav-icon2.svg": "/Folio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.3fa51921.css.map": "/Folio/static/css/main.3fa51921.css.map",
+    "main.3fef70c6.js.map": "/Folio/static/js/main.3fef70c6.js.map",
+    "453.885195b1.chunk.js.map": "/Folio/static/js/453.885195b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa51921.css",
+    "static/js/main.3fef70c6.js"
+  ]
+}
